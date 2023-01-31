@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, my name is Aleksey Alasheev! </a> 
+<h2 align="center">Hi there, my name is Aleksey! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3>Student in Peter the Great St.Petersburg Polytechnic University, Faculty of System Analyst and Management</h3>
 
