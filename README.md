@@ -10,7 +10,8 @@
 <h5> How to reach me:
 <br><br> 
 <a href="mailto:alex1976212@gmail.com"><img src="https://img.shields.io/badge/-alex1976212@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/telegram-%40StayinAlV-blue"/></a> 
+<a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/telegram-%40StayinAlV-blue"/></a>
+<a href="https://www.linkedin.com/in/aleksey-alasheev-bab734262"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
 
 
 ![gitartwork](gitartwork.svg)
