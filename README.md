@@ -12,9 +12,8 @@
 <a href="mailto:alex1976212@gmail.com"><img src="https://img.shields.io/badge/-alex1976212@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/telegram-%40StayinAlV-blue"/></a> 
 
---![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg)
-
-<!-- ![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
+![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg)
+<!-- -- ![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex1232115&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex1232115&theme=solarized_dark)
