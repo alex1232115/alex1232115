@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @ALX aka Aleksey
-- 👀 I’m interested in programming, surfing, playing on drums
-- 🌱 I’m currently learning JAVA
+- 👋 Hi, I’m @ALX or just Aleksey
+
+- 👀 I’m interested in programming, surfing, running
+
+- 🌱 I’m currently learning Java & Kotlin
+
 - 💞️ I’m looking to collaborate with interesting and ambitious people 
+
 - 📫 How to reach me: very easy, you can write me on my email - alex1976212@gmail.com
 
 <!--- 
