@@ -16,7 +16,7 @@
 ![gitartwork](gitartwork.svg)
 <!--![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
 <!-- -- ![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=sandybrown)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=sandy_brown)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex1232115&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex1232115&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alex1232115&theme=solarized_dark)
