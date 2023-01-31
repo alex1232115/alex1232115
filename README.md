@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, my name is Aleksey Alasheev! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3>Student in Peter the Great St.Petersburg Polytechnic University, Faculty of System Analyst and Management</h3>
+<h3 align="center">Student in Peter the Great St.Petersburg Polytechnic University, Faculty of System Analyst and Management</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -16,7 +16,7 @@
 ![gitartwork](gitartwork.svg)
 <!--![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
 <!-- -- ![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=sandybrown)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex1232115&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex1232115&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alex1232115&theme=solarized_dark)
