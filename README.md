@@ -26,7 +26,7 @@
   
 
 
-![gitartwork](gitartwork.svg)
+![](gitartwork.svg)
 <!--![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
 <!-- -- ![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=solarized_dark)
