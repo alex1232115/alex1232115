@@ -30,7 +30,7 @@
     }
 @keyframes c0 {
                 from {
-transform: rotate(436deg)
+transform: rotate(-505deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -44,13 +44,13 @@ transform: rotate(0deg)
             }
 @keyframes c1 {
                 from {
-transform: rotate(558deg)
+transform: rotate(-662deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c3)
                 }
             }
 .c.c1 {
@@ -58,13 +58,13 @@ transform: rotate(0deg)
             }
 @keyframes c2 {
                 from {
-transform: rotate(-280deg)
+transform: rotate(585deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c2 {
@@ -72,49 +72,7 @@ transform: rotate(0deg)
             }
 @keyframes c3 {
                 from {
-transform: rotate(-55deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c3 {
-                animation-name: c3
-            }
-@keyframes c4 {
-                from {
-transform: rotate(406deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c4 {
-                animation-name: c4
-            }
-@keyframes c5 {
-                from {
-transform: rotate(-645deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c5 {
-                animation-name: c5
-            }
-@keyframes c6 {
-                from {
-transform: rotate(378deg)
+transform: rotate(-380deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -123,18 +81,60 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c6 {
-                animation-name: c6
+.c.c3 {
+                animation-name: c3
             }
-@keyframes c7 {
+@keyframes c4 {
                 from {
-transform: rotate(-17deg)
+transform: rotate(-224deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
+                }
+            }
+.c.c4 {
+                animation-name: c4
+            }
+@keyframes c5 {
+                from {
+transform: rotate(332deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c5 {
+                animation-name: c5
+            }
+@keyframes c6 {
+                from {
+transform: rotate(97deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c6 {
+                animation-name: c6
+            }
+@keyframes c7 {
+                from {
+transform: rotate(-502deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
                 }
             }
 .c.c7 {
@@ -142,13 +142,13 @@ transform: rotate(0deg)
             }
 @keyframes c8 {
                 from {
-transform: rotate(660deg)
+transform: rotate(-466deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c8 {
@@ -156,7 +156,7 @@ transform: rotate(0deg)
             }
 @keyframes c9 {
                 from {
-transform: rotate(-477deg)
+transform: rotate(376deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -170,13 +170,13 @@ transform: rotate(0deg)
             }
 @keyframes c10 {
                 from {
-transform: rotate(-497deg)
+transform: rotate(285deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c4)
                 }
             }
 .c.c10 {
@@ -184,13 +184,13 @@ transform: rotate(0deg)
             }
 @keyframes c11 {
                 from {
-transform: rotate(-687deg)
+transform: rotate(270deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
 .c.c11 {
@@ -198,21 +198,7 @@ transform: rotate(0deg)
             }
 @keyframes c12 {
                 from {
-transform: rotate(428deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c12 {
-                animation-name: c12
-            }
-@keyframes c13 {
-                from {
-transform: rotate(613deg)
+transform: rotate(-510deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -221,12 +207,12 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c13 {
-                animation-name: c13
+.c.c12 {
+                animation-name: c12
             }
-@keyframes c14 {
+@keyframes c13 {
                 from {
-transform: rotate(712deg)
+transform: rotate(452deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -235,12 +221,26 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c13 {
+                animation-name: c13
+            }
+@keyframes c14 {
+                from {
+transform: rotate(-679deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c14 {
                 animation-name: c14
             }
 @keyframes c15 {
                 from {
-transform: rotate(-33deg)
+transform: rotate(-180deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -254,13 +254,13 @@ transform: rotate(0deg)
             }
 @keyframes c16 {
                 from {
-transform: rotate(166deg)
+transform: rotate(-521deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c2)
                 }
             }
 .c.c16 {
@@ -268,13 +268,13 @@ transform: rotate(0deg)
             }
 @keyframes c17 {
                 from {
-transform: rotate(-695deg)
+transform: rotate(500deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c17 {
@@ -282,7 +282,35 @@ transform: rotate(0deg)
             }
 @keyframes c18 {
                 from {
-transform: rotate(707deg)
+transform: rotate(377deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c18 {
+                animation-name: c18
+            }
+@keyframes c19 {
+                from {
+transform: rotate(297deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c19 {
+                animation-name: c19
+            }
+@keyframes c20 {
+                from {
+transform: rotate(-238deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -291,12 +319,12 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c18 {
-                animation-name: c18
+.c.c20 {
+                animation-name: c20
             }
-@keyframes c19 {
+@keyframes c21 {
                 from {
-transform: rotate(-407deg)
+transform: rotate(-640deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -305,46 +333,18 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c19 {
-                animation-name: c19
-            }
-@keyframes c20 {
-                from {
-transform: rotate(626deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c20 {
-                animation-name: c20
-            }
-@keyframes c21 {
-                from {
-transform: rotate(291deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
 .c.c21 {
                 animation-name: c21
             }
 @keyframes c22 {
                 from {
-transform: rotate(-469deg)
+transform: rotate(-195deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c22 {
@@ -352,7 +352,7 @@ transform: rotate(0deg)
             }
 @keyframes c23 {
                 from {
-transform: rotate(384deg)
+transform: rotate(524deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -366,7 +366,7 @@ transform: rotate(0deg)
             }
 @keyframes c24 {
                 from {
-transform: rotate(-372deg)
+transform: rotate(204deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -380,7 +380,7 @@ transform: rotate(0deg)
             }
 @keyframes c25 {
                 from {
-transform: rotate(523deg)
+transform: rotate(-584deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -394,13 +394,13 @@ transform: rotate(0deg)
             }
 @keyframes c26 {
                 from {
-transform: rotate(-28deg)
+transform: rotate(-437deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c26 {
@@ -408,21 +408,7 @@ transform: rotate(0deg)
             }
 @keyframes c27 {
                 from {
-transform: rotate(697deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c27 {
-                animation-name: c27
-            }
-@keyframes c28 {
-                from {
-transform: rotate(-346deg)
+transform: rotate(-84deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -431,12 +417,26 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
+.c.c27 {
+                animation-name: c27
+            }
+@keyframes c28 {
+                from {
+transform: rotate(-513deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
 .c.c28 {
                 animation-name: c28
             }
 @keyframes c29 {
                 from {
-transform: rotate(562deg)
+transform: rotate(684deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -450,7 +450,7 @@ transform: rotate(0deg)
             }
 @keyframes c30 {
                 from {
-transform: rotate(-231deg)
+transform: rotate(567deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -464,13 +464,13 @@ transform: rotate(0deg)
             }
 @keyframes c31 {
                 from {
-transform: rotate(67deg)
+transform: rotate(-241deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c4)
                 }
             }
 .c.c31 {
@@ -478,7 +478,7 @@ transform: rotate(0deg)
             }
 @keyframes c32 {
                 from {
-transform: rotate(236deg)
+transform: rotate(-407deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -492,13 +492,13 @@ transform: rotate(0deg)
             }
 @keyframes c33 {
                 from {
-transform: rotate(-143deg)
+transform: rotate(-567deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c33 {
@@ -506,7 +506,7 @@ transform: rotate(0deg)
             }
 @keyframes c34 {
                 from {
-transform: rotate(-467deg)
+transform: rotate(-684deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -520,13 +520,13 @@ transform: rotate(0deg)
             }
 @keyframes c35 {
                 from {
-transform: rotate(265deg)
+transform: rotate(115deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c35 {
@@ -534,13 +534,13 @@ transform: rotate(0deg)
             }
 @keyframes c36 {
                 from {
-transform: rotate(69deg)
+transform: rotate(699deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
 .c.c36 {
@@ -548,7 +548,7 @@ transform: rotate(0deg)
             }
 @keyframes c37 {
                 from {
-transform: rotate(-598deg)
+transform: rotate(642deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -562,13 +562,13 @@ transform: rotate(0deg)
             }
 @keyframes c38 {
                 from {
-transform: rotate(-603deg)
+transform: rotate(203deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c38 {
@@ -576,7 +576,7 @@ transform: rotate(0deg)
             }
 @keyframes c39 {
                 from {
-transform: rotate(165deg)
+transform: rotate(-375deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -590,13 +590,13 @@ transform: rotate(0deg)
             }
 @keyframes c40 {
                 from {
-transform: rotate(-399deg)
+transform: rotate(-550deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c40 {
@@ -604,13 +604,13 @@ transform: rotate(0deg)
             }
 @keyframes c41 {
                 from {
-transform: rotate(433deg)
+transform: rotate(-35deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c2)
                 }
             }
 .c.c41 {
@@ -620,7 +620,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                20%, to {
+                86%, to {
                     fill: var(--c0);
                 }
             }
@@ -631,7 +631,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                15%, to {
+                49%, to {
                     fill: var(--c0);
                 }
             }
@@ -642,7 +642,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                87%, to {
+                16%, to {
                     fill: var(--c0);
                 }
             }
@@ -653,7 +653,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                42%, to {
+                77%, to {
                     fill: var(--c0);
                 }
             }
@@ -664,7 +664,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                37%, to {
+                33%, to {
                     fill: var(--c0);
                 }
             }
@@ -675,7 +675,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                67%, to {
+                11%, to {
                     fill: var(--c0);
                 }
             }
@@ -686,7 +686,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                24%, to {
+                33%, to {
                     fill: var(--c0);
                 }
             }
@@ -698,7 +698,7 @@ transform: rotate(0deg)
         <g transform="translate(0, 0)">
             <rect width="11" height="11" x="16" y="0" class="o" data-date="2022-07-03" data-level="0" rx="2" ry="2">No contributions on Sunday, July 3, 2022</rect>
             <rect width="11" height="11" x="16" y="15" class="o" data-date="2022-07-04" data-level="0" rx="2" ry="2">No contributions on Monday, July 4, 2022</rect>
-            <rect width="11" height="11" x="16" y="30" class="o c c42" data-date="2022-07-05" data-level="1" rx="2" ry="2">1 contribution on Tuesday, July 5, 2022</rect>
+            <rect width="11" height="11" x="16" y="30" class="o c c42" data-date="2022-07-05" data-level="2" rx="2" ry="2">1 contribution on Tuesday, July 5, 2022</rect>
             <rect width="11" height="11" x="16" y="45" class="o" data-date="2022-07-06" data-level="0" rx="2" ry="2">No contributions on Wednesday, July 6, 2022</rect>
             <rect width="11" height="11" x="16" y="60" class="o" data-date="2022-07-07" data-level="0" rx="2" ry="2">No contributions on Thursday, July 7, 2022</rect>
             <rect width="11" height="11" x="16" y="75" class="o" data-date="2022-07-08" data-level="0" rx="2" ry="2">No contributions on Friday, July 8, 2022</rect>
@@ -786,7 +786,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="7" y="90" class="o" data-date="2022-09-10" data-level="0" rx="2" ry="2">No contributions on Saturday, September 10, 2022</rect>
         </g>
         <g transform="translate(160, 0)">
-            <rect width="11" height="11" x="6" y="0" class="o c c43" data-date="2022-09-11" data-level="1" rx="2" ry="2">1 contribution on Sunday, September 11, 2022</rect>
+            <rect width="11" height="11" x="6" y="0" class="o c c43" data-date="2022-09-11" data-level="2" rx="2" ry="2">1 contribution on Sunday, September 11, 2022</rect>
             <rect width="11" height="11" x="6" y="15" class="o" data-date="2022-09-12" data-level="0" rx="2" ry="2">No contributions on Monday, September 12, 2022</rect>
             <rect width="11" height="11" x="6" y="30" class="o" data-date="2022-09-13" data-level="0" rx="2" ry="2">No contributions on Tuesday, September 13, 2022</rect>
             <rect width="11" height="11" x="6" y="45" class="o" data-date="2022-09-14" data-level="0" rx="2" ry="2">No contributions on Wednesday, September 14, 2022</rect>
@@ -867,7 +867,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-2" y="90" class="o c c5" data-date="2022-11-12" data-level="0" rx="2" ry="2">No contributions on Saturday, November 12, 2022</rect>
         </g>
         <g transform="translate(304, 0)">
-            <rect width="11" height="11" x="-3" y="0" class="o c c6" data-date="2022-11-13" data-level="1" rx="2" ry="2">1 contribution on Sunday, November 13, 2022</rect>
+            <rect width="11" height="11" x="-3" y="0" class="o c c6" data-date="2022-11-13" data-level="2" rx="2" ry="2">1 contribution on Sunday, November 13, 2022</rect>
             <rect width="11" height="11" x="-3" y="15" class="o" data-date="2022-11-14" data-level="0" rx="2" ry="2">No contributions on Monday, November 14, 2022</rect>
             <rect width="11" height="11" x="-3" y="30" class="o" data-date="2022-11-15" data-level="0" rx="2" ry="2">No contributions on Tuesday, November 15, 2022</rect>
             <rect width="11" height="11" x="-3" y="45" class="o" data-date="2022-11-16" data-level="0" rx="2" ry="2">No contributions on Wednesday, November 16, 2022</rect>
@@ -886,7 +886,7 @@ transform: rotate(0deg)
         </g>
         <g transform="translate(336, 0)">
             <rect width="11" height="11" x="-5" y="0" class="o c c10" data-date="2022-11-27" data-level="0" rx="2" ry="2">No contributions on Sunday, November 27, 2022</rect>
-            <rect width="11" height="11" x="-5" y="15" class="o c c44" data-date="2022-11-28" data-level="1" rx="2" ry="2">1 contribution on Monday, November 28, 2022</rect>
+            <rect width="11" height="11" x="-5" y="15" class="o c c44" data-date="2022-11-28" data-level="2" rx="2" ry="2">1 contribution on Monday, November 28, 2022</rect>
             <rect width="11" height="11" x="-5" y="30" class="o" data-date="2022-11-29" data-level="0" rx="2" ry="2">No contributions on Tuesday, November 29, 2022</rect>
             <rect width="11" height="11" x="-5" y="45" class="o" data-date="2022-11-30" data-level="0" rx="2" ry="2">No contributions on Wednesday, November 30, 2022</rect>
             <rect width="11" height="11" x="-5" y="60" class="o c c11" data-date="2022-12-01" data-level="0" rx="2" ry="2">No contributions on Thursday, December 1, 2022</rect>
@@ -969,7 +969,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-14" y="0" class="o c c29" data-date="2023-01-29" data-level="0" rx="2" ry="2">No contributions on Sunday, January 29, 2023</rect>
             <rect width="11" height="11" x="-14" y="15" class="o c c30" data-date="2023-01-30" data-level="0" rx="2" ry="2">No contributions on Monday, January 30, 2023</rect>
             <rect width="11" height="11" x="-14" y="30" class="o c c45" data-date="2023-01-31" data-level="4" rx="2" ry="2">39 contributions on Tuesday, January 31, 2023</rect>
-            <rect width="11" height="11" x="-14" y="45" class="o c c46" data-date="2023-02-01" data-level="1" rx="2" ry="2">1 contribution on Wednesday, February 1, 2023</rect>
+            <rect width="11" height="11" x="-14" y="45" class="o c c46" data-date="2023-02-01" data-level="2" rx="2" ry="2">1 contribution on Wednesday, February 1, 2023</rect>
             <rect width="11" height="11" x="-14" y="60" class="o" data-date="2023-02-02" data-level="0" rx="2" ry="2">No contributions on Thursday, February 2, 2023</rect>
             <rect width="11" height="11" x="-14" y="75" class="o c c31" data-date="2023-02-03" data-level="0" rx="2" ry="2">No contributions on Friday, February 3, 2023</rect>
             <rect width="11" height="11" x="-14" y="90" class="o c c32" data-date="2023-02-04" data-level="0" rx="2" ry="2">No contributions on Saturday, February 4, 2023</rect>
@@ -1119,7 +1119,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-30" y="90" class="o" data-date="2023-05-27" data-level="0" rx="2" ry="2">No contributions on Saturday, May 27, 2023</rect>
         </g>
         <g transform="translate(752, 0)">
-            <rect width="11" height="11" x="-31" y="0" class="o c c47" data-date="2023-05-28" data-level="2" rx="2" ry="2">3 contributions on Sunday, May 28, 2023</rect>
+            <rect width="11" height="11" x="-31" y="0" class="o c c47" data-date="2023-05-28" data-level="4" rx="2" ry="2">3 contributions on Sunday, May 28, 2023</rect>
             <rect width="11" height="11" x="-31" y="15" class="o" data-date="2023-05-29" data-level="0" rx="2" ry="2">No contributions on Monday, May 29, 2023</rect>
             <rect width="11" height="11" x="-31" y="30" class="o" data-date="2023-05-30" data-level="0" rx="2" ry="2">No contributions on Tuesday, May 30, 2023</rect>
             <rect width="11" height="11" x="-31" y="45" class="o" data-date="2023-05-31" data-level="0" rx="2" ry="2">No contributions on Wednesday, May 31, 2023</rect>
@@ -1169,6 +1169,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-36" y="30" class="o" data-date="2023-07-04" data-level="0" rx="2" ry="2">No contributions on Tuesday, July 4, 2023</rect>
             <rect width="11" height="11" x="-36" y="45" class="o" data-date="2023-07-05" data-level="0" rx="2" ry="2">No contributions on Wednesday, July 5, 2023</rect>
             <rect width="11" height="11" x="-36" y="60" class="o" data-date="2023-07-06" data-level="0" rx="2" ry="2">No contributions on Thursday, July 6, 2023</rect>
+            <rect width="11" height="11" x="-36" y="75" class="o" data-date="2023-07-07" data-level="0" rx="2" ry="2">No contributions on Friday, July 7, 2023</rect>
         </g>
 
         
