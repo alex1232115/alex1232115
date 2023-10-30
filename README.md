@@ -4,7 +4,7 @@
 
 
 
-<h5> :hammer_and_wrench: Languages and Tools
+<h4 align="center"> :hammer_and_wrench: Languages and Tools
 <br><br>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp; 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -13,11 +13,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; 
-</h5>
+</h4>
 
 
 
-<h5> How to reach me:
+<h4 align="center"> How to reach me:
 <br><br>
 <a href="mailto:alex1976212@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
