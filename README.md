@@ -15,7 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; 
 </h5>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alex1232115)](https://git.io/streak-stats)
+
 
 <h5> How to reach me:
 <br><br>
@@ -34,3 +34,5 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/alex1232115/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/alex1232115/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/alex1232115/github-profile-summary-cards)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alex1232115)](https://git.io/streak-stats) ->
