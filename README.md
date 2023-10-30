@@ -1,6 +1,7 @@
-<h2 align="center">Hi there, my name is Aleksey! </a> 
+<h2 align="center"> Hi there, my name is Aleksey! </a> 
+<h2 align="center"> Привет, меня зовут Лёша! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3>Begginer Software Engineer</h3>
+<h3>Backend Engineer</h3>
 
 
 
