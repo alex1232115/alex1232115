@@ -7,13 +7,13 @@
 <h4 align="center"> :hammer_and_wrench: Languages and Tools
 <br><br>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/spring/java-original-wordmark.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/python/java-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
-
+<img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; 
 </h4>
