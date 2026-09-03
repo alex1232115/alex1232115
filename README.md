@@ -1,7 +1,13 @@
 <h1 align="center"> Hi there, I'm Alexey! </a> 
-<h1 align="center"> Привет, меня зовут Лёша! </a> 
-<h3 align="center"> Java backend engineer </h3>
+<h3 align="center">Backend engineer From Saint-Petersburg</h3>
 
+<h4 align="center"> How to reach me:
+<br><br>
+<a href="mailto:alex1976212@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="https://www.linkedin.com/in/aleksey-alasheev-bab734262"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
+![](gitartwork.svg)
 
 
 <h4 align="center"> :hammer_and_wrench: Languages and Tools
@@ -18,18 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; 
 </h4>
 
-
-
-<h4 align="center"> How to reach me:
-<br><br>
-<a href="mailto:alex1976212@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
-<a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-<a href="https://www.linkedin.com/in/aleksey-alasheev-bab734262"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-
-  
-
-
-![](gitartwork.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex1232115&theme=city_lights)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex1232115&theme=city_lights)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex1232115&theme=city_lights)
