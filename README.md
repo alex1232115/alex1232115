@@ -7,7 +7,7 @@
 <a href="https://t.me/StayinAlV"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 <a href="https://www.linkedin.com/in/aleksey-alasheev-bab734262"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-![](gitartwork.svg)
+![123](gitartwork.svg)
 
 
 <h4 align="center"> :hammer_and_wrench: Languages and Tools
@@ -38,8 +38,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/grafanaloki" title="Grafana Loki" alt="Grafana Loki" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/grafana" title="Grafana Tempo" alt="Grafana Tempo" width="40" height="40"/> 
 
 </h4>
 
