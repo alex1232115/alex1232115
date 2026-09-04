@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Alexey! </a> 
-<h3 align="center">Backend engineer From Saint-Petersburg</h3>
+<h3 align="center">Backend engineer from Saint-Petersburg</h3>
 
 <h4 align="center"> How to reach me:
 <br><br>
